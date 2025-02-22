@@ -43,5 +43,5 @@ Feel free to fork this repo, submit pull requests, or suggest new simulations!
    ```bash
    jupyter notebook
 
-4. Open a notebook from the ```notebooks/``` folder and start exploring.
+4. Open a notebook from the ```notebooks/``` folder!
 
