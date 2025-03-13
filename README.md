@@ -3,7 +3,6 @@ This is my collection of interactive Python simulations exploring fundamental ph
 
 ## Features
 - Simulations of quantum tunneling, magnetic resonance, and charged particle motion
-- Interactive Jupyter notebooks for exploration and learning
 - Real-time visualizations using Matplotlib and Plotly
 - Modular code structure for easy expansion
 
