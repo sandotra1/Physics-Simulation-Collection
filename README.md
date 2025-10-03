@@ -1,4 +1,4 @@
-# Physics-Simulation-Collection 🚀
+# Physics-Simulation-Collection
 This is my collection of interactive Python simulations exploring fundamental physics concepts. This project aims to provide visual and computational tools to understand quantum mechanics, electromagnetism, and classical mechanics.
 
 ## Features
